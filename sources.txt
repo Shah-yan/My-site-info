@@ -1,0 +1,4 @@
+images : unsplash
+colour pallets : coloue hunt
+icons : flaticons
+gif : giphy.com
